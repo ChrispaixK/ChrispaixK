@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Chrispaix
+![githubbannerck](https://user-images.githubusercontent.com/71190715/177974466-7a9d4dfe-cbf1-42eb-84e5-af2da32d6a93.png)
+
+## Web developer, content creator, mentor, and tech lover
+
+- 🌱 I’m currently learning Fullstack Webdevelopment
 - 👀 I’m interested in Web Development , JS, MERN
-- 🌱 I’m currently learning on my own
-- 💞️ I’m looking to collaborate on Js Projects
+- 👯 I’m looking to collaborate with other software developers
+- 🥅 2022 Goals: Become a proficient full-stack webdeveloper
+- ⚡ Fun fact: I am a photographer and drummer by passion
 - 📫 Reach me on kchrispaixs@gmail.com
 
-<!---
-ChrispaixK/ChrispaixK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages and Tools:
+
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/html/)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/css/)
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
+<br />
+<br />
+
+
