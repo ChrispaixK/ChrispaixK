@@ -1,7 +1,7 @@
 {
   "name": "gitartwork",
   "version": "1.0.0",
-  "description": "<p align=\"center\"><a href=\"https://github.com/jasineri/gitartwork\">gitartwork on user's contribution graph, make a SVG image of it and finally push it back to your repository</a> </p>",
+  "description": "<p align=\"center\"><a href=\"https://github.com/ChrispaixK/gitartwork\">gitartwork on user's contribution graph, make a SVG image of it and finally push it back to your repository</a> </p>",
   "main": "dist/index.js",
   "scripts": {
     "prestart" : "npm run format && npm run build",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasineri/gitartwork.git"
+    "url": "git+https://github.com/ChrispaixK/gitartwork.git"
   },
   "keywords": [],
-  "author": "jasineri",
+  "author": "ChrispaixK",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasineri/gitartwork/issues"
+    "url": "https://github.com/ChrispaixK/gitartwork/issues"
   },
-  "homepage": "https://github.com/jasineri/gitartwork#readme",
+  "homepage": "https://github.com/ChrispaixK/gitartwork#readme",
   "dependencies": {
     "@actions/core": "^1.8.2",
     "@actions/github": "^5.0.3"
