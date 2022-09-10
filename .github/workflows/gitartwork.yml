@@ -15,4 +15,4 @@
             user_name: Chrispaix 
             # Text on contribution graph 
             text: Chrispaix
-       - uses: Chrispaix/simple-push-action@v1
+       - uses: ChrispaixK/simple-push-action@v1
