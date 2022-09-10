@@ -1,5 +1,5 @@
 ![githubbannerck](https://user-images.githubusercontent.com/71190715/177974466-7a9d4dfe-cbf1-42eb-84e5-af2da32d6a93.png)
-![gitartwork](gitartwork.svg)
+
 ## Web developer, content creator, mentor, and tech lover
 
 - 🌱 I’m currently learning Fullstack Webdevelopment
