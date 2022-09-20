@@ -3,7 +3,7 @@
 ## Web developer, content creator, mentor, and tech lover
 
 - 🌱 I’m currently learning Fullstack Webdevelopment
-- 👀 I’m interested in Web Development , JS, MERN
+- 👀 I’m interested in Web Development , JS, MERN Stack
 - 👯 I’m looking to collaborate with other software developers
 - 🥅 2022 Goals: Become a proficient full-stack webdeveloper
 - ⚡ Fun fact: I am a photographer and drummer by passion
