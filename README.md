@@ -24,4 +24,4 @@
 <br />
 <br />
 ### This week I spent time on
-...
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChrispaixK)](https://github.com/anuraghazra/github-readme-stats)
