@@ -20,9 +20,8 @@
 <br />
 <br />
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispaixK&show_icons=true&theme=radical)
-![Github Stats](https://github-readme-![cklogonobg](https://user-images.githubusercontent.com/71190715/191442641-be526de8-96ce-4ccf-961b-9e3c98ecf372.png)
-stats.vercel.app/api?username=ChrispaixK&count_private=true&show_icons=true&theme=radical) 
 <br />
 <br />
-### This week I spent time on
+### This week I spent time 🕑n :
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChrispaixK)](https://github.com/anuraghazra/github-readme-stats)
