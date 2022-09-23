@@ -1,4 +1,5 @@
-![githubbannerck](https://user-images.githubusercontent.com/71190715/177974466-7a9d4dfe-cbf1-42eb-84e5-af2da32d6a93.png)
+
+![ckbanner](https://user-images.githubusercontent.com/71190715/191964308-47c09a5a-a93c-4ffe-90c3-3259220cea44.png)
 
 ## Web developer, content creator, mentor, and tech lover
 
