@@ -1,12 +1,12 @@
 
 ![ckbanner](https://user-images.githubusercontent.com/71190715/191964308-47c09a5a-a93c-4ffe-90c3-3259220cea44.png)
 
-## Software developer, content creator, mentor, and tech lover
+## Full-stack web developer, content creator, mentor, and tech lover
 
-- 🌱 I’m currently learning Fullstack Webdevelopment
-- 👀 I’m interested in Web Development , JS, MERN Stack
+- 🌱 I’m currently a junior Fullstack Webdevelopment
+- 👀 I’m interested in Web Development , JS, MERN Stack, Python and Django
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Become a proficient full-stack webdeveloper
+- 🥅 2023 Goals: Become a proficient MERN developer
 - ⚡ Fun fact: I am a photographer and drummer by passion
 - 📫 Reach me on kchrispaixs@gmail.com
 
