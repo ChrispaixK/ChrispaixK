@@ -3,10 +3,10 @@
 
 ## Full-stack web developer, content creator, mentor, and tech lover
 
-- 🌱 I’m currently a junior Fullstack Webdevelopment
+- 🌱 I’m currently learning MERN stack 
 - 👀 I’m interested in Web Development , JS, MERN Stack, Python and Django
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2023 Goals: Become a proficient MERN developer
+- 🥅 2023 Goals: Become a proficient MERN developer and be comfortable with Python & Django
 - ⚡ Fun fact: I am a photographer and drummer by passion
 - 📫 Reach me on kchrispaixs@gmail.com
 
