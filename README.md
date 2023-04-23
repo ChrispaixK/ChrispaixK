@@ -1,7 +1,7 @@
 
 ![ckbanner](https://user-images.githubusercontent.com/71190715/191964308-47c09a5a-a93c-4ffe-90c3-3259220cea44.png)
 
-## Full-stack web developer, content creator, mentor, and tech lover
+## Full-stack developer, content creator, mentor, and tech lover
 
 - 🌱 I’m currently learning MERN stack 
 - 👀 I’m interested in Web Development , JS, MERN Stack, Python and Django
