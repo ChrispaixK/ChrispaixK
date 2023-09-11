@@ -26,5 +26,5 @@
 <br />
 <br />
 
-### This week, I spent time ⏰ jamming with 🚀💻
+### Last week, I spent time ⏰ jamming with 🚀💻
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChrispaixK)](https://github.com/anuraghazra/github-readme-stats)
