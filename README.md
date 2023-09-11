@@ -4,7 +4,7 @@
 ## Full-stack developer, content creator, mentor, and tech lover
 
 - 🌱 I'm diving deep into Ruby on Rails and honing my skills in crafting robust web applications with React.js (Next.js).
-- 👀 I'm particularly interested in web development and specialize in building dynamic, user-friendly interfaces and server-side logic.
+- 👀 I'm particularly interested in web development and specialize in building dynamic, user-friendly interfaces.
 - 👯 I'm actively seeking job & collaboration opportunities in web development and software development.
 - 🥅 2023 Goals: Become a proficient Ruby on Rails & ReactJs developer 
 - ⚡ Fun fact: I am a photographer and drummer by passion
