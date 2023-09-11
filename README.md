@@ -25,3 +25,6 @@
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispaixK&show_icons=true&theme=radical)
 <br />
 <br />
+
+### This week, I spent time ⏰ jamming with 🚀💻
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChrispaixK)](https://github.com/anuraghazra/github-readme-stats)
