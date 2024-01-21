@@ -1,7 +1,6 @@
 
-![ck-banner-github](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/c10e8f0e-61dd-4eda-b64c-dde32a89d689)
-
-## Full-stack developer, content creator, mentor, and tech lover
+![ck-github](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/e4242c78-5235-4ace-bb3e-76ab0337b745)
+# Full-stack developer, content creator, mentor, and tech lover
 
 - 🌱 I'm diving deep into Ruby on Rails and honing my skills in crafting robust web applications with React.js (Next.js).
 - 👀 I'm particularly interested in web development and specialize in building dynamic, user-friendly interfaces.
