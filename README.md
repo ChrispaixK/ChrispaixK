@@ -1,13 +1,23 @@
 
 ![ck-github](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/e4242c78-5235-4ace-bb3e-76ab0337b745)
-# Full-stack developer, content creator, mentor, and tech lover
+# Fullstack Engineer 🚀
 
-- 🌱 I'm diving deep into Ruby on Rails and honing my skills in crafting robust web applications with React.js (Next.js).
-- 👀 I'm particularly interested in web development and specialize in building dynamic, user-friendly interfaces.
-- 👯 I'm actively seeking job & collaboration opportunities in web development and software development.
-- 🥅 2023 Goals: Become a proficient Ruby on Rails & ReactJs developer 
-- ⚡ Fun fact: I am a photographer and drummer by passion
-- 📫 Reach me on kchrispaixs@gmail.com
+Passionate about startups, I thrive on the challenges of conceiving innovative solutions and continuously improving software. Currently, I'm immersing myself in the world of Javascript, aiming to become a proficient NodeJs and ReactJs developer.
+
+## 🔧 Skills & Interests
+- **Web Development:** I'm deeply interested in crafting dynamic, user-friendly interfaces that leave a lasting impression.
+- **Startups:** I love being part of the dynamic environment where ideas come to life, and solutions make a real impact.
+- **Photography & Drumming:** Outside the world of coding, I express my creativity through photography and find rhythm as a drummer.
+
+## 🤝 Open to Opportunities
+I am actively seeking job and collaboration opportunities in web development and software engineering. If you have a project or role in mind, let's connect!
+
+## 🌱 Learning Journey
+- Diving deep into Javascript to master its intricacies.
+- 2024 Goals: Achieve proficiency in NodeJs and ReactJs development.
+
+
+Feel free to reach out for a chat or collaboration. I'm excited to explore new opportunities and connect with fellow enthusiasts! 🚀
 
 ### Languages and Tools:
 
