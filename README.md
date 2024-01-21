@@ -1,4 +1,5 @@
-![ck](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/ac72d99b-6fd9-4acf-8869-8e2d03f78a4f)
+
+![ck-banner-github](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/c10e8f0e-61dd-4eda-b64c-dde32a89d689)
 
 ## Full-stack developer, content creator, mentor, and tech lover
 
