@@ -7,17 +7,17 @@ Passionate about startups, I thrive on the challenges of conceiving innovative s
 ## 🔧 Skills & Interests
 - **Web Development:** I'm deeply interested in crafting dynamic, user-friendly interfaces that leave a lasting impression.
 - **Startups:** I love being part of the dynamic environment where ideas come to life, and solutions make a real impact.
-- **Photography & Drumming:** Outside the world of coding, I express my creativity through photography and find rhythm as a drummer.
+- **Photography & Drumming:** Outside the world of coding, I express my creativity through photography and find a rhythm as a drummer.
 
 ## 🤝 Open to Opportunities
-I am actively seeking job and collaboration opportunities in web development and software engineering. If you have a project or role in mind, let's connect!
+I actively seek job and collaboration opportunities in web development and software engineering. If you have a project or role in mind, let's connect!
 
 ## 🌱 Learning Journey
 - Diving deep into Javascript to master its intricacies.
 - 2024 Goals: Achieve proficiency in NodeJs and ReactJs development.
 
 
-Feel free to reach out for a chat or collaboration. I'm excited to explore new opportunities and connect with fellow enthusiasts! 🚀
+Please feel free to contact me for a chat or collaboration. I'm excited to explore new opportunities and connect with fellow enthusiasts! 🚀
 
 ### Languages and Tools:
 
@@ -36,5 +36,5 @@ Feel free to reach out for a chat or collaboration. I'm excited to explore new o
 <br />
 <br />
 
-### I recently spent time ⏰ jamming with 🚀💻
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChrispaixK)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### I recently spent time ⏰ jamming with 🚀💻
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChrispaixK)](https://github.com/anuraghazra/github-readme-stats) -->
