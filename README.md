@@ -38,3 +38,7 @@ Please feel free to contact me for a chat or collaboration. I'm excited to explo
 
 <!-- ### I recently spent time ⏰ jamming with 🚀💻
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChrispaixK)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[<img alt="" width="33%" src="https://github.com/ChrispaixK/ChrispaixK/assets/71190715/d575c2b9-195b-446d-959e-15f82732f033" />](https://chrispaixkaze.com)
+[<img alt="" width="33%" src="https://github.com/ChrispaixK/ChrispaixK/assets/71190715/25737cff-d5af-4309-8598-362403b7090d" />](https://aesthetics-lens.vercel.app)
+[<img alt="" width="33%" src="https://github.com/ChrispaixK/ChrispaixK/assets/71190715/d72834c8-f6a0-4afa-8130-ae96b4fe1c2c" />](https://www.egalis.bi/)
