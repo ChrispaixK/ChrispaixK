@@ -2,22 +2,14 @@
 ![ck-github](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/e4242c78-5235-4ace-bb3e-76ab0337b745)
 # Fullstack Web Developer 🚀
 
-Passionate about startups, I thrive on the challenges of conceiving innovative solutions and continuously improving software. Currently, I'm immersing myself in the world of Javascript, aiming to become a proficient NodeJs and ReactJs developer.
+If it doesn’t add real value, no matter how cool it looks, it’s bullsh*t.
 
-## 🔧 Skills & Interests
-- **Web Development:** I'm deeply interested in crafting dynamic, user-friendly interfaces that leave a lasting impression.
-- **Startups:** I love being part of the dynamic environment where ideas come to life, and solutions make a real impact.
-- **Photography & Drumming:** Outside the world of coding, I express my creativity through photography and find a rhythm as a drummer.
+## 🤝 Open to Colabs
+If you’re interested in Odoo, Odoo integrations, or revolutionizing e-commerce—especially in Africa—let’s connect!
 
-## 🤝 Open to Opportunities
-I actively seek job and collaboration opportunities in web development and software engineering. If you have a project or role in mind, let's connect!
-
-## 🌱 Learning Journey
-- Diving deep into Javascript to master its intricacies.
-- 2024 Goals: Achieve proficiency in NodeJs and ReactJs development.
-
-
-Please feel free to contact me for a chat or collaboration. I'm excited to explore new opportunities and connect with fellow enthusiasts! 🚀
+## 🌱 Currently Learning
+After a year focused on large-scale Odoo implementations(45+ projects in 10+ countries), I’m back to hands-on coding.
+Currently refreshing and strengthening my JavaScript fundamentals (until Jan 2026), then moving on to Python. 🚀
 
 ### Languages and Tools:
 
