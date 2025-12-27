@@ -1,6 +1,6 @@
 
 ![ck-github](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/e4242c78-5235-4ace-bb3e-76ab0337b745)
-# Fullstack Engineer 🚀
+# Fullstack Web Developer 🚀
 
 Passionate about startups, I thrive on the challenges of conceiving innovative solutions and continuously improving software. Currently, I'm immersing myself in the world of Javascript, aiming to become a proficient NodeJs and ReactJs developer.
 
