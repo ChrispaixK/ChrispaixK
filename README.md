@@ -24,8 +24,6 @@ Currently refreshing and strengthening my JavaScript fundamentals (until Jan 202
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
 <br />
 <br />
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispaixK&show_icons=true&theme=radical)
-<br />
 <br />
 
 <!-- ### I recently spent time ⏰ jamming with 🚀💻
