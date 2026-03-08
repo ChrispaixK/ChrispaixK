@@ -9,7 +9,7 @@ If you’re interested in Odoo, Odoo integrations, or revolutionizing e-commerce
 
 ## 🌱 Currently Learning
 After a year focused on large-scale Odoo implementations(45+ projects in 10+ countries), I’m back to hands-on coding.
-Currently refreshing and strengthening my JavaScript fundamentals (until Jan 2026), then moving on to Python. 🚀
+Currently refreshing and strengthening my JavaScript fundamentals, then moving on to Python. 🚀
 
 ### Languages and Tools:
 
