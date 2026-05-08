@@ -1,14 +1,14 @@
 
 ![ck-github](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/e4242c78-5235-4ace-bb3e-76ab0337b745)
-# Fullstack Web Developer 🚀
+# Project Manager & Web Developer
 
-If it doesn’t add real value, no matter how cool it looks, it’s bullsh*t.
+Striving daily to streamline business workflows with tech
 
 ## 🤝 Open to Colabs
 If you’re interested in Odoo, Odoo integrations, or revolutionizing e-commerce—especially in Africa—let’s connect!
 
-## 🌱 Currently Learning
-After a year focused on large-scale Odoo implementations(45+ projects in 10+ countries), I’m back to hands-on coding.
+## 🌱 Currently Re-Learning
+After 2 years focused on large-scale Odoo implementations(47+ projects in 11+ countries), I’m back to hands-on coding.
 Currently refreshing and strengthening my JavaScript fundamentals, then moving on to Python. 🚀
 
 ### Languages and Tools:
